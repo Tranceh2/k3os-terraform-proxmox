@@ -1,0 +1,3 @@
+* K3os Terraform Proxmox
+
+The purpose of this terraform template is to deploy k3os on Proxmox and configure manifests in manifests folder.

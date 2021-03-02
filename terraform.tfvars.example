@@ -1,0 +1,11 @@
+
+pm_api_url = "https://proxmox.local:8006/api2/json"
+pm_user = "root@pam"
+pm_ssh_user = "root"
+pm_ssh_password = "examplepass"
+pm_ssh_host = "192.168.1.254"
+pm_tls_insecure = true
+target_node = "evilproxmox"
+clone_template_name = "k3os-template-in-proxmox"
+ssh_keys = ["ssh-rsa blablablabla"]
+ssh_private_key = "~/.ssh/id_rsa"
